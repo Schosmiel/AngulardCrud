@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Elon",
+      "lastName": "MUSK",
+      "email": "elonmusk@gmail.com",
+      "dateNaiss": "2003-04-03T00:00:00.000Z",
+      "gender": "homme",
+      "education": "Diplomat",
+      "entreprise": "Stalink",
+      "experience": 6,
+      "package": 3,
+      "id": 9
+    },
+    {
+      "firstName": "Bill",
+      "lastName": "GATE",
+      "email": "billgate@gmail.com",
+      "dateNaiss": "2004-04-03T00:00:00.000Z",
+      "gender": "homme",
+      "education": "Diplomat",
+      "entreprise": "Microsoft",
+      "experience": 6,
+      "package": 3,
+      "id": 10
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "BESOS",
+      "email": "besos@gmail.com",
+      "dateNaiss": "2009-04-03T00:00:00.000Z",
+      "gender": "homme",
+      "education": "Diplomat",
+      "entreprise": "Amazon",
+      "experience": 6,
+      "package": 3,
+      "id": 11
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "ZOUKBERG",
+      "email": "zoukberg@gmail.com",
+      "dateNaiss": "2007-04-03T00:00:00.000Z",
+      "gender": "homme",
+      "education": "Diplomat",
+      "entreprise": "Meta",
+      "experience": 6,
+      "package": 3,
+      "id": 12
+    },
+    {
+      "firstName": "Donald",
+      "lastName": "TRUNP",
+      "email": "donald@gmail.com",
+      "dateNaiss": "2006-04-03T00:00:00.000Z",
+      "gender": "homme",
+      "education": "Diplomat",
+      "entreprise": "Trump Coorporation",
+      "experience": 6,
+      "package": 3,
+      "id": 13
+    }
+  ]
+}
